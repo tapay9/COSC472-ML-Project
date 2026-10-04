@@ -6,7 +6,7 @@ Machine Learning team project for COSC 472 at Morgan State University
 
 ## 👥 Team Members & Contributions
 As per course requirements, all three members must actively collaborate and commit to this repository.
-*   **[Member 1 Name] ([GitHub Username])** - Role/Focus (e.g., Data Preprocessing, Feature Engineering)
+*   **[Taniyah Payton] ([tapay9])** - Role/Focus (e.g., Data Preprocessing, Feature Engineering)
 *   **[Member 2 Name] ([GitHub Username])** - Role/Focus (e.g., Model Architecture, Training Pipelines)
 *   **[Member 3 Name] ([GitHub Username])** - Role/Focus (e.g., Hyperparameter Tuning, Evaluation & Deployment)
 
