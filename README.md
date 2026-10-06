@@ -1,6 +1,5 @@
-# Project Title: ML Workflow Optimizer
 Machine Learning team project for COSC 472 at Morgan State University
-# Project Title: [Insert Machine Learning Project Name]
+# Project Title: [ML Workflow Optimizer]
 
 >>> Short, impactful description of what this machine learning project achieves, the problem it solves, and the core model/approach used.
 
