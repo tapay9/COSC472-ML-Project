@@ -1,4 +1,4 @@
-# COSC472-ML-Project
+# Project Title: ML Workflow Optimizer
 Machine Learning team project for COSC 472 at Morgan State University
 # Project Title: [Insert Machine Learning Project Name]
 
@@ -7,8 +7,8 @@ Machine Learning team project for COSC 472 at Morgan State University
 ## 👥 Team Members & Contributions
 As per course requirements, all three members must actively collaborate and commit to this repository.
 *   **[Taniyah Payton] (tapay9)** - Role/Focus (e.g., Data Preprocessing, Feature Engineering)
-*   **[Member 2 Name] ([GitHub Username])** - Role/Focus (e.g., Model Architecture, Training Pipelines)
-*   **[Member 3 Name] ([GitHub Username])** - Role/Focus (e.g., Hyperparameter Tuning, Evaluation & Deployment)
+*   **[Isaac Rankin] (themaxhat)** - Role/Focus (e.g., Model Architecture, Training Pipelines)
+*   **[Tariq Lukis] ([taluk1])** - Role/Focus (e.g., Hyperparameter Tuning, Evaluation & Deployment)
 
 ---
 
