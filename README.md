@@ -7,7 +7,7 @@ Machine Learning team project for COSC 472 at Morgan State University
 As per course requirements, all three members must actively collaborate and commit to this repository.
 *   **[Taniyah Payton] (tapay9)** - Role/Focus (e.g., Data Preprocessing, Feature Engineering)
 *   **[Isaac Rankin] (themaxhat)** - Role/Focus (e.g., Model Architecture, Training Pipelines)
-*   **[Tariq Lukis] ([taluk1])** - Role/Focus (e.g., Hyperparameter Tuning, Evaluation & Deployment)
+*   **[Tariq Lukis] (taluk1)** - Role/Focus (e.g., Hyperparameter Tuning, Evaluation & Deployment)
 
 ---
 
